@@ -12,6 +12,7 @@ This source codes are written in C/C++, Python, and other programming languages.
 ### Context
 
 * Keylogger: Keylogger in Python.
+* Steganography: Hide data or message in image files and seek them in encoded files.
 
 ---
 
